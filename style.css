@@ -18,7 +18,7 @@ main{
     height: 430px;
     display: grid;
     grid-template-columns: 900px 1fr;
-
+    margin-bottom: 50px;
 }
 .infos{
     background-color: #9CA986;
