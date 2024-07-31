@@ -15,7 +15,7 @@ main{
     width: 100%;
     border-radius: 20px;
     border: 4px solid #5F6F65;
-    height: 350px;
+    height: 430px;
     display: grid;
     grid-template-columns: 900px 1fr;
 
